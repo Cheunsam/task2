@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(174, 187, 192);
+    color: black;
+    border: 10px solid hsla(0,0%,100%,.5);
+    outline: .6cm solid #655;
+}
+.header {
+    background-color: orange;
+    color: #000;
+    margin: 0px 0px 0px 0px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+th {
+    background-color: orangered;
+    color: #000;
+    font-size: 14pt;
+
+}
+b {
+    color: green;
+    text-align: left;
+    font-family: sans-serif;
+  } 
+
+strong {
+    color: purple;
+    text-align: center;
+  } 
+
+ul {
+    list-style-type: none;
+}
+
